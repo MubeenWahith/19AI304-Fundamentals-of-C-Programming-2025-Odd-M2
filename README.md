@@ -150,6 +150,7 @@ int main() {
 }
 ~~~
 # Output:
+<img width="618" height="465" alt="image" src="https://github.com/user-attachments/assets/8bdca3ea-fe7f-4dc3-bbcd-918ae486077e" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -224,6 +225,7 @@ int main() {
     return 0;
 }
 # Output:
+<img width="460" height="250" alt="image" src="https://github.com/user-attachments/assets/ca1e99a2-fd30-450b-aad0-f0d31d02fcbf" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
